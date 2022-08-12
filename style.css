@@ -1,0 +1,40 @@
+body{
+    margin: 3% auto;
+    width: 300px;
+    background-color: #FAF7FD;
+}
+
+#principal {
+    background-color: #FAF7FD ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.img-cachorro{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #BB99DD;
+    padding: 4px;
+}
+
+.arroba{
+    font-size: large ;
+    color: #BB99DD;
+}
+
+.botao{
+border: 3px solid #BB99DD;
+background:#FAF7FD;
+color: #BB99DD;
+margin: 5px;
+padding: 2px;
+width: 240px;
+height: 40px;
+}
+
+.icons{
+text-decoration: none;
+}
